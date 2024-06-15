@@ -88,7 +88,7 @@
       </tr>
     </tbody>
   </table>
-  made by <a href="work2.html">Eakkasit</a>
+  made by <a href="work2.html">Eakkkasit</a>
 
 </body>
 
